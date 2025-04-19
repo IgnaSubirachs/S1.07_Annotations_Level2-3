@@ -15,6 +15,9 @@ public class JsonSerializer {
         JsonSerializable annotation = clazz.getAnnotation(JsonSerializable.class);
         String directory = annotation.directory();
 
+        System.out.println("Annotation found!");
+        System.out.println("Target directory specified: " + directory);
+
         StringBuilder jsonBuilder = new StringBuilder();
         jsonBuilder.append("{\n");
 
