@@ -30,7 +30,7 @@ The main objective is to use reflection to access object fields and dynamically 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-json-serializer.git
+   (https://github.com/IgnaSubirachs/S1.07_Annotations_Level2.git)
    ```
 2. Open the project in your preferred IDE.
 3. Make sure the JDK is properly configured.
